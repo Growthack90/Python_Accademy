@@ -6,7 +6,7 @@ Seguendo questi progetti e applicandoli sono sicuro che ti innamorerai di questo
 ## `Inizia a programmare`
 
 Copia il codice ed incollalo nell'editor online.\
-Apri [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/) nel tuo browser preferito.
+Apri [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/) oppure [https://trinket.io/](https://trinket.io/) nel tuo browser preferito.
 In alternativa puoi usare qualunque editor preferisci per il tuo PC. Io per esempio uso Visual Studio Code, il quale è disponibile per tutte le piattaforme (Windows; MacOS, Linux).\
 Se installi VSCode ricordati di installare l'estensione per Python: `Python Extension Pack`.
 
